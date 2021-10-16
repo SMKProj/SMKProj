@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMKProj
 - 👀 I’m interested in software applications development and is new to Github.
-- 🌱 I’m currently learning .Net Core using C#
+- 🌱 I’m currently working on front end development projects
 - 💞️ I’m looking to collaborate on projects developed on .Net framework 
 
 <!---
